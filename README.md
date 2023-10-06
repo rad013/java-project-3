@@ -1,6 +1,7 @@
 This repository contains a Java application that helps manage transactions and systems for Shoes Station.
 
 Application Overview
+
 The application consists of several forms and functionalities:
 
 1. Login Form
