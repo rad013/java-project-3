@@ -1,6 +1,6 @@
 This repository contains a Java application that helps manage transactions and systems for Shoes Station.
 
-Application Overview
+**Application Overview**
 
 The application consists of several forms and functionalities:
 
@@ -63,7 +63,7 @@ The application consists of several forms and functionalities:
 Before running the application, execute the provided SQL script 'create+insert.sql' to
 set up the required database.
 
-How to Run
+**How to Run**
 1. Open the Java project in your preferred IDE.
 2. Compile and run the project to start the application.
 3. Follow the on-screen instructions for each form to navigate and use the application.
